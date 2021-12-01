@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaron-zzh
-- 👀 I’m interested in Knowledge Management (KM)
+- 👀 I’m interested in Knowledge Management (KM) 、Linked Data
 - 🌱 I’m currently learning  Machine learning、Knowledge Graph、NLP
 - 💞️ I’m looking to collaborate on KM System
 - 📫 How to reach me ...
