@@ -2,7 +2,7 @@
 - 👀 I’m interested in Knowledge Management (KM) 、Linked Data
 - 🌱 I’m currently learning  Machine learning、Knowledge Graph、NLP
 - 💞️ I’m looking to collaborate on KM System
-- 📫 How to reach me ...
+- 📫 How to reach me ...😉
 
 <!---
 aaron-zzh/aaron-zzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
