@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaron-zzh
 - 👀 I’m interested in Knowledge Management (KM) 、Linked Data
 - 🌱 I’m currently learning Machine learning、Knowledge Graph、NLP
-- 💞️ I’m looking to collaborate on KM Tool [Xueji](https://github.com/aaron-zzh/xueji)
+- 💞️ I’m looking to collaborate on KM Tool [Xueji](https://github.com/tfwai/tfw-community)
 - 📫 How to reach me ...😉
 
 <!---
